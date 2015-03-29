@@ -7,7 +7,7 @@ public class Hello {
 for(int k=0;i<10;k++){
 	for(int i=0;i<10;i++)
 	{System.out.println("enumerar:"+i);
-
+         {System.out.println("enumerar:"+i);
          {System.out.println("enumerar:"+i);
          }}
 
